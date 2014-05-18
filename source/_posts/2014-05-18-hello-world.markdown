@@ -1,11 +1,12 @@
 ---
-layout: page
-title: "about"
-date: 2014-05-17 18:43
+layout: post
+title: "hello world"
+date: 2014-05-18 11:17:31 +0800
 comments: true
-sharing: true
-footer: true
+categories: 
 ---
+
+Start a wonderful trip to OpenSource, Anti-Fragility, MicroServices and DevOps.
 
 Technology has come to pervade all aspects of our live. It reflects in the way we engage with our customers to create great shopping, travelling, entertaining experience.
 
