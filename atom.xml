@@ -4,7 +4,7 @@
   <title><![CDATA[A Trip to OpenSource, Antifragility, MicroServices and DevOps]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-05-18T11:13:29+08:00</updated>
+  <updated>2014-05-18T11:22:48+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[ctriposs]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/blog/2014/05/18/hello-world/"/>
+    <updated>2014-05-18T11:17:31+08:00</updated>
+    <id>http://yoursite.com/blog/2014/05/18/hello-world</id>
+    <content type="html"><![CDATA[<p>Start a wonderful trip to OpenSource, Anti-Fragility, MicroServices and DevOps.</p>
+
+<p>Technology has come to pervade all aspects of our live. It reflects in the way we engage with our customers to create great shopping, travelling, entertaining experience.</p>
+
+<p>Crafting technical products or solutions requires innovative use of technology and a constant willingness to experiment and learn. We as engineers are heavily influenced by open source community like github, we grow by sharing and learning from each other, and believe that source code, knowledge and experience are there to be shared.</p>
+
+<p>While we got a few things right on technology and engineering, we also made mistakes and learned from them. The purpose of this blog is to share:</p>
+
+<blockquote><ol>
+<li>Our learning when dealing with technologies and the impact they have on business and customers.</li>
+<li>Thoughts that individual team or engineer have about areas: Technology, Open Source, Anti-fragile Architecture &amp; Organization, MicroServices, DevOps, etc.</li>
+<li>Our failures &ndash; and more importantly what we have learned from them.</li>
+</ol>
+</blockquote>
+
+<p>All posts on this blog only contain individual views, unbiased by any product, solution or business.</p>
+]]></content>
+  </entry>
   
 </feed>
